@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "cristian",
+    "database": "graphql_example",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "cristian",
+    "database": "graphql_example",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "cristian",
+    "database": "graphql_example",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
